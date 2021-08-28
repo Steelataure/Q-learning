@@ -20,9 +20,9 @@ L'environnement dispose de :
 * bonus (2)
 * champ possible à parcourir (0)
 
-Lorsque l'IA passe par les malus, l'IA "meurt" instantanément et revient au point de départ et perd des points.
+Lorsque l'IA passe par les malus, l'IA "meurt" instantanément et revient au point de départ et `perd des points`.
 
-Lorsque l'IA passe par les bonus (2), ce sont des checkpoints, l'IA gagne des points, incitant l'IA à passer par là.
+Lorsque l'IA passe par les bonus (2), ce sont des checkpoints, l'IA `gagne des points`, incitant l'IA à passer par là.
 L'IA peut également passer par les 0 (le vide).
 
 L'IA s'entraîne s'entraine x fois et finit par trouver l'optimisation du chemin qu'est celle-ci :
@@ -31,6 +31,5 @@ L'IA s'entraîne s'entraine x fois et finit par trouver l'optimisation du chemin
 
 
 ## Auteur
-**Alexandre Buisset** alias **Steel**
-
-**Wandrille Legras**
+* **Alexandre Buisset** alias **Steel**  
+* **Wandrille Legras**
