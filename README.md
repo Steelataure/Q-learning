@@ -31,6 +31,6 @@ L'IA s'entraîne s'entraine x fois et finit par trouver l'optimisation du chemin
 
 
 ## Auteur
-Alexandre Buisset alias Steel
+**Alexandre Buisset** alias **Steel**
 
-Wandrille Legras
+**Wandrille Legras**
