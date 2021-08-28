@@ -7,7 +7,11 @@
 
 ## Description du projet
 
-C'est une intelligence artificielle (IA) dans le modèle d'apprentissage par renforcement notamment du Q-learning et avec l'utilisation de la librairie numpy.
+C'est une intelligence artificielle (IA) dans le modèle d'apprentissage par renforcement et avec l'utilisation du Q-learning.
+
+### **Schéma représentant les principes du Q-learning**
+
+![Q-learning](https://zupimages.net/up/21/34/vird.png)
 
 L'objectif de L'IA est de réussir à optimiser son chemin afin d'obtenir le plus de points dans l'environnement donné.
 
@@ -23,9 +27,10 @@ L'IA peut également passer par les 0 (le vide).
 
 L'IA s'entraîne s'entraine x fois et finit par trouver l'optimisation du chemin qu'est celle-ci :
 
-![Alt Text](https://media.giphy.com/media/U5OwFeVLKMnwJry9E1/giphy.gif)
+![Résultat](https://media.giphy.com/media/U5OwFeVLKMnwJry9E1/giphy.gif)
 
 
 ## Auteur
-* **Alexandre Buisset** alias **Steel**
-* **Wandrille Legras**
+Alexandre Buisset alias Steel
+
+Wandrille Legras
