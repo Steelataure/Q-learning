@@ -1,5 +1,5 @@
   
-# Intelligence artificiel (Q-learning)
+# Intelligence artificielle (Q-learning)
 
 ## Installation
 * Télécharger le fichier .rar dans release sur la version la plus récente
